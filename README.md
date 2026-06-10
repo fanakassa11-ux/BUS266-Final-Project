@@ -1,6 +1,6 @@
 # BUS266-Final-Project
 Data projects and work products from BUS266.
-<p>This is a workflow that cleans and analyzes data with various tools in mind including Power BI and SQL</p>
+<p>This diagram illustrates how marketing and customer data flows through different systems before being used for reporting and decision-making. Data is collected from website visitors, validated through several quality checks, and stored in databases for analysis. The final reports are used by business leaders to track performance and improve marketing and sales results. Overall, the process highlights the importance of data quality and accurate reporting in business analytics. </p>
 <img width="866" height="272" alt="image" src="https://github.com/user-attachments/assets/51088d51-45d9-40e1-b8b5-5abb98374158" />
 Analysis of Amazon Books Dataset Visualizations 
 
